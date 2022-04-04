@@ -1,6 +1,6 @@
 import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/material.dart';
-import 'dart:ui'
+import 'dart:ui';
 
 class CustomToast {
   static Function show({
